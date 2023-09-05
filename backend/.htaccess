@@ -1,4 +1,0 @@
-RewriteEngine On
-
-RewriteCond %{REQUEST_METHOD} ^GET
-RewriteRule ^add-product$ public/index.html [L]

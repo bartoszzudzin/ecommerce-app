@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () =>{
     return(
         <footer>
-            <p>Scandiweb Test assignment</p>
+            <p>eCommerce App by Bartosz Zudzin</p>
         </footer>
     )
 }
